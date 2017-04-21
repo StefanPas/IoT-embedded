@@ -1,4 +1,4 @@
-The project is divided into two parts:
+### The project is divided into two parts:
 
 1. Development of a hardware prototype combining GPS, OLED display, SD cards module and arduino MEGA 2560, plus a 12V lithium battery. This prototype can show the GPS data on the OLED display and store satellite readings into a csv file. 
 
